@@ -6,6 +6,6 @@
 
 🇨🇳 Shenzhen, China・🕹 Web Developer
 
-[![hello@loli.do](https://img.shields.io/static/v1?label=hello@loli.do&message=%20&color=blue&logo=gmail&logoColor=white)](mailto:hello@loli.do)
+[![hello@loli.do](https://img.shields.io/static/v1?label=%20&message=hello@loli.do&color=blue&logo=gmail&logoColor=white)](mailto:hello@loli.do)
 
 🔗 https://core.moe
