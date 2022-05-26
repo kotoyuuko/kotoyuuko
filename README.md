@@ -4,7 +4,7 @@
 
 > May all the beauty be blessed.
 
-🇨🇳 Shenzhen, China・🕹 Web Developer
+🇨🇳 Hangzhou, China・🕹 Web Developer
 
 [![hello@loli.do](https://img.shields.io/static/v1?label=%20&message=hello@loli.do&color=blue&logo=gmail&logoColor=white)](mailto:hello@loli.do)
 
